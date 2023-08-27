@@ -1,5 +1,5 @@
 
-void main() {
+void main() async {
  
 Future.delayed(Duration(seconds: 1),(){
   showFi();
